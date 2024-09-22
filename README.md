@@ -17,5 +17,5 @@ This Python script allows you to change the MAC address of a specified network i
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/macchanger.git
+   https://github.com/sulogno/mac_changer.git
    cd macchanger
