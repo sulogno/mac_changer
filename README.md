@@ -19,7 +19,7 @@ A simple Python script to randomly generate a MAC address and change the MAC add
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/mac-address-changer.git
+   git clone https://github.com/sulogno/mac_changer
    cd mac-address-changer
 ## Run the script with root privileges:
 
