@@ -27,7 +27,7 @@ Run the script with the `-i` option to specify the interface you want to change:
 ```bash
 python3 mac_changer.py -i <interface>
 ```
-#Example
+## Example
 ```bash
 python3 mac_changer.py -i eth0
 ```
