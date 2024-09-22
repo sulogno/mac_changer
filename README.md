@@ -19,3 +19,15 @@ This Python script allows you to change the MAC address of a specified network i
    ```bash
    https://github.com/sulogno/mac_changer.git
    cd macchanger
+# MAC Address Changer
+
+## Usage
+Run the script with the `-i` option to specify the interface you want to change:
+
+```bash
+python3 mac_changer.py -i <interface>
+```
+#Example
+```bash
+python3 mac_changer.py -i eth0
+```
