@@ -49,7 +49,7 @@ sudo python3 mac_changer.py -i eth0
 [+] MAC address successfully changed to 00:74:77:3e:5d:7f
 ```
 ## License
-1. This project is licensed under the MIT License. See the LICENSE file for more details.
+1. This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Contributing
 Feel free to submit issues or pull requests if you have suggestions or improvements.
